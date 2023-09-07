@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theagentmaro&label=Profile%20views&color=0e75b6&style=flat" alt="theagentmaro" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://theagentmaro.github.io/portfolio.github.io/](https://theagentmaro.github.io/portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://theagentmaro.github.io/portfolio.github.io/)
 
 - 💬 Ask me about **ASP .Net** | **ReactJS**
 
 - 📫 How to reach me **marwen.meddeb@outlook.fr**
 
-- 📄 Know about my experiences [https://theagentmaro.github.io/portfolio.github.io/](https://theagentmaro.github.io/portfolio.github.io/)
+- 📄 Know about my experiences [Marwen Meddeb Linkdein](https://www.linkedin.com/in/marwen-meddeb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
