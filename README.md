@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **marwen.meddeb@outlook.fr**
 
-- 📄 Know about my experiences [Marwen Meddeb Linkdein](https://www.linkedin.com/in/marwen-meddeb)
+- 📄 Know about my experiences [Mohamed Marwen's LinkedIn](https://www.linkedin.com/in/marwen-meddeb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
