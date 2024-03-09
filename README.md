@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theagentmaro&label=Profile%20views&color=0e75b6&style=flat" alt="theagentmaro" /> </p>
 
-- 👨‍💻 Take a look at [My Portfolio](https://theagentmaro.github.io/portfolio.github.io/)
+- 👨‍💻 Take a look at [My Portfolio](https://theagentmaro.github.io/)
 
 - 💬 Ask me about **Computer Science !**
 
