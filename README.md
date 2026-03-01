@@ -41,13 +41,117 @@ I'm a software engineering student and full-stack developer currently working as
 
 ## 🏢 Experience
 
-| Period | Role | Company |
-|--------|------|---------|
-| 🟢 Nov 2024 – Present | **Full Stack ERP / E-commerce Developer** *(Apprenticeship)* | SEALERIS · Hybrid 🇫🇷 |
-| ⚪ Jun – Oct 2024 | Full Stack ERP / E-commerce Intern | SEALERIS · Rennes 🇫🇷 |
-| ⚪ Jul – Sep 2023 | Full Stack .NET / ReactJS Developer | Move IT · Remote 🇹🇳 |
-| ⚪ Mar – Jun 2023 | Full Stack .NET / Razor Developer | Astek · Rennes 🇫🇷 |
-| ⚪ Aug – Oct 2022 | Front End .NET / Razor Developer | Astek · Remote 🇹🇳 |
+<details open>
+<summary><b>🟢 SEALERIS — Développeur Full Stack ERP / E-commerce · Alternance · Nov 2024 – Présent · France (Hybride)</b></summary>
+<br>
+
+> Développement et personnalisation d'une solution **Odoo** (ERP + e-commerce) pour deux poissonneries en ligne : *Louis & Georges Marée* et *Brest Marée*.
+
+**Responsabilités :**
+- 🔧 Développement de modules Odoo sur mesure (achats / ventes / stock / e-commerce) adaptés au négoce de produits de la mer
+- ⚖️ Gestion avancée des conditionnements (kg / unité, conversions, prix au kilo, calculs dynamiques)
+- 🛒 Personnalisation panier / checkout + livraison par zones + workflow de commande (suivi, préparation, traçabilité)
+- 🔐 Configuration des rôles et permissions utilisateurs pour sécuriser les données et processus
+- ✅ Optimisation via tests unitaires et d'intégration
+- 🖥️ Gestion de serveurs VPS Linux, déploiement Docker, monitoring et gestion de logs
+
+**Stack :**
+`Python` `JavaScript` `OWL` `XML` `SCSS` `Docker` `Linux` `GitLab` `Git`
+
+</details>
+
+---
+
+<details>
+<summary><b>⚪ SEALERIS — Stagiaire Développeur Full Stack ERP / E-commerce · Jun – Oct 2024 · Rennes 🇫🇷</b></summary>
+<br>
+
+- 📋 Analyse des besoins et conception de solutions de gestion commerciale personnalisées
+- 🐍 Création de modules Python pour la gestion d'imports, de poids variables et de livraisons clients
+- 🛍️ Intégration e-commerce complète sous Odoo (stocks, commandes, paiements personnalisés)
+- ⚙️ Optimisation des processus métier via personnalisation des fonctionnalités natives Odoo
+- 🔗 Intégration PrestaShop ↔ Odoo via connecteurs de synchronisation
+
+**Stack :**
+`Python` `OWL` `XML` `SCSS` `JavaScript` `PHP` `Symfony` `Docker` `GitLab` `Git`
+
+</details>
+
+---
+
+<details>
+<summary><b>⚪ Move Information Technology — Développeur Full Stack .NET / ReactJS · Jul – Sep 2023 · Remote 🇹🇳</b></summary>
+<br>
+
+- 🌐 Développement de l'application web portfolio de Move Information Technology
+- 👥 Travail en équipe via Azure DevOps (Agile / SCRUM)
+- ⚡ Optimisation des performances selon les meilleures pratiques
+
+**Stack :**
+`C#` `ASP.NET Core MVC` `REST API` `ReactJS` `SQL Server` `Entity Framework` `LINQ` `MSTest` `Azure DevOps` `Git`
+
+</details>
+
+---
+
+<details>
+<summary><b>⚪ Astek — Développeur Full Stack .NET / Razor · Mar – Jun 2023 · Rennes 🇫🇷 (On-site)</b></summary>
+<br>
+
+> Projet *Astek Events* — Application web de gestion d'événements.
+
+- 🎨 Conception UI/UX et développement des interfaces
+- 📧 Intégration d'un service de messagerie interne
+- 🔐 Système d'authentification et autorisation basé sur les rôles
+- 🚀 Stratégie de test et déploiement (MSTest, Agile SCRUM)
+
+**Stack :**
+`C#` `Razor (CSHTML)` `ASP.NET` `Web API` `Entity Framework` `SQL Server` `MVC` `MVVM` `HTML5` `CSS` `SASS` `Bootstrap` `jQuery` `Git`
+
+</details>
+
+---
+
+<details>
+<summary><b>⚪ Concentrix — Technicien Assistance IT · Sep 2022 – Mar 2023 · Tunis 🇹🇳</b></summary>
+<br>
+
+- 📞 Support client bilingue **FR / EN** auprès de clients canadiens
+- 🛒 Gestion des commandes, réclamations et assistance produits
+- 🔄 Orientation et transfert des appels vers les interlocuteurs appropriés
+
+</details>
+
+---
+
+<details>
+<summary><b>⚪ Astek — Développeur Front End .NET / Razor · Août – Oct 2022 · Remote 🇹🇳</b></summary>
+<br>
+
+- 🖼️ Création de maquettes et interfaces utilisateur avec le moteur de vue Razor
+- 💡 Proposition et présentation d'améliorations fonctionnelles
+- 🐛 Participation à la résolution de problèmes web
+
+**Stack :**
+`C#` `Razor` `HTML5` `CSS` `Bootstrap` `jQuery` `JavaScript` `Git`
+
+</details>
+
+---
+
+<details>
+<summary><b>⚪ Well'Com Studio — Développeur Front End / WordPress · Jan – Jun 2021 · Tunis 🇹🇳</b></summary>
+<br>
+
+- 🌍 Développement de sites web sous **WordPress** et **PrestaShop**
+- 🎯 Intégration précise de maquettes graphiques en HTML5 / CSS
+- ⚡ Création d'interactivité avec JavaScript
+- 🔧 Développement de fonctionnalités PHP côté serveur
+
+**Stack :**
+`WordPress` `PrestaShop` `HTML5` `CSS` `JavaScript` `PHP` `Git`
+
+</details>
 
 ---
 
@@ -171,8 +275,8 @@ I'm a software engineering student and full-stack developer currently working as
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theagentmaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theagentmaro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=theagentmaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theagentmaro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -182,14 +286,9 @@ I'm a software engineering student and full-stack developer currently working as
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
 <div align="center">
 
-[![BlogoCraft](https://github-readme-stats.vercel.app/api/pin/?username=theagentmaro&repo=BlogoCraft&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9)](https://github.com/theagentmaro/BlogoCraft)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=theagentmaro&repo=theagentmaro.github.io&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9)](https://github.com/theagentmaro/theagentmaro.github.io)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theagentmaro&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
