@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohamed%20Marwen%20Meddeb&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20DevSecOps%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohamed%20Marwen%20Meddeb&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20and%20DevSecOps%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -35,7 +35,7 @@ languages  : [ Arabic 🇹🇳, French 🇫🇷, English 🇬🇧 ]
 status     : Open to collaborations & interesting projects 🚀
 ```
 
-I'm a full-stack developer currently working as an **Odoo ERP / E-commerce developer** at SEALERIS, building custom modules for online fish monger platforms. I thrive at the intersection of **clean code**, **cloud infrastructure**, and **security-first development**.
+I'm a software engineering student and full-stack developer currently working as an **Odoo ERP / E-commerce developer** at SEALERIS, building custom modules for online fish monger platforms. I thrive at the intersection of **clean code**, **cloud infrastructure**, and **security-first development**.
 
 ---
 
