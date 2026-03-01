@@ -29,7 +29,7 @@
 name       : Mohamed Marwen Meddeb
 location   : Rennes, Brittany 🇫🇷
 role       : Full Stack Developer (Apprenticeship @ SEALERIS)
-education  : MEng Computer Software Engineering — SUPINFO (2024–2026)
+education  : MEng Computer Software Engineering — SUPINFO (2021–2026)
 passions   : [ Cloud, DevSecOps, ERP, Open Source ]
 languages  : [ Arabic 🇹🇳, French 🇫🇷, English 🇬🇧 ]
 status     : Open to collaborations & interesting projects 🚀
@@ -42,114 +42,119 @@ I'm a software engineering student and full-stack developer currently working as
 ## 🏢 Experience
 
 <details open>
-<summary><b>🟢 SEALERIS — Développeur Full Stack ERP / E-commerce · Alternance · Nov 2024 – Présent · France (Hybride)</b></summary>
+<summary><b>🟢 SEALERIS — Full Stack ERP / E-commerce Developer · Apprenticeship · Nov 2024 – Present · France (Hybrid)</b></summary>
 <br>
 
-> Développement et personnalisation d'une solution **Odoo** (ERP + e-commerce) pour deux poissonneries en ligne : *Louis & Georges Marée* et *Brest Marée*.
+> Building and customising an **Odoo** ERP + E-commerce solution for two online fish monger partners: *Louis & Georges Marée* and *Brest Marée*.
 
-**Responsabilités :**
-- 🔧 Développement de modules Odoo sur mesure (achats / ventes / stock / e-commerce) adaptés au négoce de produits de la mer
-- ⚖️ Gestion avancée des conditionnements (kg / unité, conversions, prix au kilo, calculs dynamiques)
-- 🛒 Personnalisation panier / checkout + livraison par zones + workflow de commande (suivi, préparation, traçabilité)
-- 🔐 Configuration des rôles et permissions utilisateurs pour sécuriser les données et processus
-- ✅ Optimisation via tests unitaires et d'intégration
-- 🖥️ Gestion de serveurs VPS Linux, déploiement Docker, monitoring et gestion de logs
+**Responsibilities :**
+- 🔧 Business process optimisation — customisation of Odoo's native features to create an integrated infrastructure for efficient resource and operations management
+- 🔐 Security & user access management — configuration of roles and permissions to ensure data security and appropriate access rights per user
+- ✅ Continuous improvement & testing — unit and integration tests to guarantee code quality and reliability
+- 🖥️ Linux VPS hosting — installation, configuration and deployment of applications using Docker
+- 📊 Monitoring & incident resolution — implementation of monitoring solutions for proactive performance tracking and problem resolution
 
 **Stack :**
-`Python` `JavaScript` `OWL` `XML` `SCSS` `Docker` `Linux` `GitLab` `Git`
+`Python` `JavaScript` `OWL` `XML` `SCSS` `PHP` `Symfony` `Docker` `Linux` `GitLab` `GitHub` `Git` `VSCode` `Slack`
 
 </details>
 
 ---
 
 <details>
-<summary><b>⚪ SEALERIS — Stagiaire Développeur Full Stack ERP / E-commerce · Jun – Oct 2024 · Rennes 🇫🇷</b></summary>
+<summary><b>⚪ SEALERIS — Full Stack ERP / E-commerce Developer · Internship · Jun – Oct 2024 · Rennes 🇫🇷</b></summary>
 <br>
 
-- 📋 Analyse des besoins et conception de solutions de gestion commerciale personnalisées
-- 🐍 Création de modules Python pour la gestion d'imports, de poids variables et de livraisons clients
-- 🛍️ Intégration e-commerce complète sous Odoo (stocks, commandes, paiements personnalisés)
-- ⚙️ Optimisation des processus métier via personnalisation des fonctionnalités natives Odoo
-- 🔗 Intégration PrestaShop ↔ Odoo via connecteurs de synchronisation
+- 📋 **Needs analysis** — identification and analysis of user requirements to design customised sales management solutions
+- 🐍 **Odoo development** — creation of custom Python modules for managing imports, variable weights and customer deliveries
+- 🛍️ **E-commerce integration** — complete Odoo e-commerce setup with specific modules for stock, orders and custom payment methods
+- ⚙️ **Process optimisation** — fine-tuning of Odoo's native features to meet specific business needs
+- 🔗 **PrestaShop ↔ Odoo** integration via synchronisation connectors
 
 **Stack :**
-`Python` `OWL` `XML` `SCSS` `JavaScript` `PHP` `Symfony` `Docker` `GitLab` `Git`
+`Python` `OWL` `XML` `SCSS` `JavaScript` `PHP` `Symfony` `Docker` `GitLab` `GitHub` `Git` `VSCode`
 
 </details>
 
 ---
 
 <details>
-<summary><b>⚪ Move Information Technology — Développeur Full Stack .NET / ReactJS · Jul – Sep 2023 · Remote 🇹🇳</b></summary>
+<summary><b>⚪ Move Information Technology — Trainee Full Stack Developer .NET / ReactJS · Jul – Sep 2023 · Remote 🇹🇳</b></summary>
 <br>
 
-- 🌐 Développement de l'application web portfolio de Move Information Technology
-- 👥 Travail en équipe via Azure DevOps (Agile / SCRUM)
-- ⚡ Optimisation des performances selon les meilleures pratiques
+> Internal project: Creation of the Move Information Technology portfolio web application.
+
+- 🌐 Full stack development of the company's portfolio web app
+- 👥 Team collaboration via Azure DevOps (Agile / SCRUM)
+- ⚡ Performance optimisation following coding best practices
 
 **Stack :**
-`C#` `ASP.NET Core MVC` `REST API` `ReactJS` `SQL Server` `Entity Framework` `LINQ` `MSTest` `Azure DevOps` `Git`
+`C#` `ASP.NET Core MVC` `REST API` `ReactJS` `SQL Server` `Entity Framework` `LINQ` `MSTest` `Azure DevOps` `Git` `Visual Studio` `SSMS`
 
 </details>
 
 ---
 
 <details>
-<summary><b>⚪ Astek — Développeur Full Stack .NET / Razor · Mar – Jun 2023 · Rennes 🇫🇷 (On-site)</b></summary>
+<summary><b>⚪ Astek — Full Stack .NET / Razor Developer Intern · Mar – Jun 2023 · Rennes 🇫🇷 (On-site)</b></summary>
 <br>
 
-> Projet *Astek Events* — Application web de gestion d'événements.
+> Project *Astek Events* — Web application for event management.
 
-- 🎨 Conception UI/UX et développement des interfaces
-- 📧 Intégration d'un service de messagerie interne
-- 🔐 Système d'authentification et autorisation basé sur les rôles
-- 🚀 Stratégie de test et déploiement (MSTest, Agile SCRUM)
+- 🎨 UI/UX design and implementation for the application
+- 📧 Integration of a messaging service for application users
+- 🔐 Role-based authentication and authorisation system
+- 🧪 Test and deployment strategy (MSTest, Agile SCRUM)
+- ⚡ Performance optimisation following best practices
 
 **Stack :**
-`C#` `Razor (CSHTML)` `ASP.NET` `Web API` `Entity Framework` `SQL Server` `MVC` `MVVM` `HTML5` `CSS` `SASS` `Bootstrap` `jQuery` `Git`
+`C#` `Razor (CSHTML)` `ASP.NET` `Web API` `Entity Framework` `SQL Server` `MVC` `HTML5` `CSS` `SASS` `Bootstrap` `jQuery` `JavaScript` `MSTest` `Git` `GitHub` `Visual Studio`
 
 </details>
 
 ---
 
 <details>
-<summary><b>⚪ Concentrix — Technicien Assistance IT · Sep 2022 – Mar 2023 · Tunis 🇹🇳</b></summary>
+<summary><b>⚪ Concentrix — Technical Support IT · Sep 2022 – Mar 2023 · Tunis 🇹🇳</b></summary>
 <br>
 
-- 📞 Support client bilingue **FR / EN** auprès de clients canadiens
-- 🛒 Gestion des commandes, réclamations et assistance produits
-- 🔄 Orientation et transfert des appels vers les interlocuteurs appropriés
+- 📞 Bilingual **FR / EN** customer support for Canadian clients
+- 🛒 Order management, complaint handling and product assistance
+- 🔄 Call routing and transfer to appropriate contacts
+- 🤝 Customer advising, product presentation and follow-up
 
 </details>
 
 ---
 
 <details>
-<summary><b>⚪ Astek — Développeur Front End .NET / Razor · Août – Oct 2022 · Remote 🇹🇳</b></summary>
+<summary><b>⚪ Astek — Intern Front-End Web Developer .NET / Razor · Aug – Oct 2022 · Remote 🇹🇳</b></summary>
 <br>
 
-- 🖼️ Création de maquettes et interfaces utilisateur avec le moteur de vue Razor
-- 💡 Proposition et présentation d'améliorations fonctionnelles
-- 🐛 Participation à la résolution de problèmes web
+- 🖼️ Creation of mockups and user interfaces using the Razor view engine
+- 💡 Proposing and presenting feature enhancements
+- 🐛 Troubleshooting and resolving web-based system issues
+- 🔄 Content update and maintenance
 
 **Stack :**
-`C#` `Razor` `HTML5` `CSS` `Bootstrap` `jQuery` `JavaScript` `Git`
+`C#` `Razor` `HTML5` `CSS` `Bootstrap` `jQuery` `JavaScript` `Git` `Visual Studio`
 
 </details>
 
 ---
 
 <details>
-<summary><b>⚪ Well'Com Studio — Développeur Front End / WordPress · Jan – Jun 2021 · Tunis 🇹🇳</b></summary>
+<summary><b>⚪ Well'Com Studio — WordPress / Front-End Developer Trainee · Jan – Jun 2021 · Tunis 🇹🇳</b></summary>
 <br>
 
-- 🌍 Développement de sites web sous **WordPress** et **PrestaShop**
-- 🎯 Intégration précise de maquettes graphiques en HTML5 / CSS
-- ⚡ Création d'interactivité avec JavaScript
-- 🔧 Développement de fonctionnalités PHP côté serveur
+- 🌍 Development of **WordPress** and **PrestaShop** websites
+- 🎯 Precise integration of graphic layouts in HTML5 / CSS
+- ⚡ Interactivity and responsiveness implementation with JavaScript
+- 🔧 Server-side PHP feature development interacting dynamically with client-side JS
+- ⚙️ Management of technical solutions for website functionalities
 
 **Stack :**
-`WordPress` `PrestaShop` `HTML5` `CSS` `JavaScript` `PHP` `Git`
+`WordPress` `PrestaShop` `HTML5` `CSS` `JavaScript` `PHP` `Git` `GitHub`
 
 </details>
 
